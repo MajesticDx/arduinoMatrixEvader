@@ -8,6 +8,7 @@ You need a Esprit ESP32 DevModule with WiFi, Bluepad Bluetooth, a PS4 Controller
 You need to start the game via the Button on the Website that is localy hosted.
 
 Then you steer the red dot with your PS4 Controller.
+(PS4 Controller needs MAC Adress adressed to the ESP32 -> do this with SixAxisPairTool)
 
 Hold R2 for sprint Mode -> double the speed.
 
