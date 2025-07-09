@@ -12,8 +12,8 @@ ControllerPtr myControllers[BP32_MAX_GAMEPADS];
 hw_timer_t *timer = NULL;
 OLED_SH1106 OLED;
 
-String ssid     = "JDS-LW40"; //"Andjic-WLAN_EG";
-String password = "jsDR2020AbcPV2"; //"65127627269805312018";
+String ssid     = YOUR WIFI NAME HERE
+String password = YOUR WIFI PASSWORD HERE
 
 volatile bool sprint = false;
 volatile bool links = false;
