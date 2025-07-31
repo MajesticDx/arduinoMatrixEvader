@@ -1,6 +1,10 @@
 # arduinoMatrixEvader
 Arduino game where you need to evade blocks on a 8x8 Matrix
 
+NOT OPTIMISED FOR USAGE. THIS IS JUST A UPLOAD FOR DEMONSTRATION.
+I made this in school and it isn't well written or made for share.
+Keep this in mind!
+
 RUN MatrixMundliche.ino
 
 **CHANGE WIFI IN MATRIXMUNDLICHE TO YOURS!!!**
